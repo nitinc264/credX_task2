@@ -111,6 +111,8 @@ credx-ai/
 - More granular cultural and work-style matching.
 - Mobile-first redesign for accessibility.
 
+## Output:
+<img width="1902" height="906" alt="Screenshot 2025-08-16 195642" src="https://github.com/user-attachments/assets/5a78ae2a-3cd0-4c20-aaa0-56c712fcc3c7" />
 
 ## 🤝 Contributing
 
