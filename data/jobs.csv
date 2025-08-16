@@ -1,0 +1,101 @@
+job_id,title,company,location,salary_range,employment_type,company_size,industry,required_skills,values_promoted,experience_required,role_level
+LTIM-0,Junior Backend Developer,LTI Mindtree,Chennai,"[642933, 909219]",Full-Time,1001-5000 Employees,Logistics,Microservices;Python;Spring Boot;SQL,Customer Centricity;Work-Life Balance,0-2 years,Junior
+FRSH-0,Lead Full Stack Developer,Freshworks,Hyderabad,"[2755780, 4054323]",Full-Time,501-1000 Employees,IT Services & Consulting,React;JavaScript;Express,Work-Life Balance,8-12 years,Lead
+ZOHO-0,Mid-Level Full Stack Developer,Zoho Corporation,Ahmedabad,"[1158146, 1661864]",Full-Time,51-200 Employees,FinTech,Express;SQL;React;MongoDB;Node.js,Teamwork;Ownership,3-5 years,Mid-Level
+INFY-0,Lead Backend Developer,Infosys,Mumbai,"[2669878, 4631407]",Full-Time,5001-10000 Employees,SaaS,Java;Django;Spring Boot;Node.js;SQL,Teamwork;Data-Driven Decisions;Customer Centricity,8-12 years,Lead
+TECHM-0,Principal DevOps Engineer,Tech Mahindra,Mumbai,"[4206993, 6652322]",Full-Time,501-1000 Employees,IT Services & Consulting,Docker;Kubernetes;Jenkins,Continuous Learning,12+ years,Principal
+PERS-0,Lead Backend Developer,Persistent Systems,Hyderabad,"[2534506, 3725483]",Full-Time,501-1000 Employees,Gaming,Spring Boot;Python;Microservices;Django,Ownership;Customer Centricity,8-12 years,Lead
+COG-0,Senior Data Scientist,Cognizant,Mumbai,"[2711447, 4574418]",Full-Time,5001-10000 Employees,IT Services & Consulting,TensorFlow;Scikit-learn;SQL;Machine Learning;Python,Customer Centricity;Ownership,5-8 years,Senior
+SWGY-0,Mid-Level DevOps Engineer,Swiggy,Pune,"[1394457, 2210326]",Full-Time,1001-5000 Employees,E-commerce,CI/CD;Jenkins;Terraform;AWS;Kubernetes,Teamwork;Work-Life Balance;Customer Centricity,3-5 years,Mid-Level
+SWGY-1,Mid-Level Data Scientist,Swiggy,Pune,"[1769315, 2550795]",Full-Time,5001-10000 Employees,E-commerce,TensorFlow;Scikit-learn;Python,Innovation;Ownership;Work-Life Balance,3-5 years,Mid-Level
+ADBE-0,Senior Cloud Engineer,Adobe,Ahmedabad,"[2198645, 3437692]",Full-Time,10000+ Employees,IT Services & Consulting,Terraform;AWS;Azure;GCP,Continuous Learning;Customer Centricity;Work-Life Balance,5-8 years,Senior
+IBM-0,Principal Full Stack Developer,IBM,Bengaluru,"[4198187, 7182940]",Full-Time,51-200 Employees,Gaming,JavaScript;Node.js;SQL;Express,Teamwork;Continuous Learning,12+ years,Principal
+HCL-0,Principal Frontend Developer,HCL Technologies,Ahmedabad,"[2719673, 4277103]",Full-Time,1001-5000 Employees,IT Services & Consulting,JavaScript;TypeScript;React;Next.js;CSS,Customer Centricity;Teamwork,12+ years,Principal
+INTU-0,Lead Software Engineer,Intuit,Delhi NCR,"[2154048, 3181128]",Full-Time,1001-5000 Employees,EdTech,Data Structures;Python;Algorithms;Java;C++,Integrity,8-12 years,Lead
+PAYTM-0,Mid-Level Android Developer,Paytm,Kolkata,"[885192, 1444457]",Full-Time,5001-10000 Employees,Logistics,Java;Android SDK;Jetpack Compose;MVVM;Kotlin,Continuous Learning,3-5 years,Mid-Level
+ORCL-0,Principal QA Engineer,Oracle,Mumbai,"[2396075, 3819262]",Full-Time,1001-5000 Employees,Healthcare IT,API Testing;Python;Selenium;Java,Innovation;Teamwork;Integrity,12+ years,Principal
+ACCN-0,Junior Software Engineer,Accenture,Bengaluru,"[516667, 814521]",Full-Time,1001-5000 Employees,Gaming,Data Structures;Python;Algorithms;C++,Data-Driven Decisions;Integrity;Continuous Learning,0-2 years,Junior
+WIPRO-0,Lead Machine Learning Engineer,Wipro,Pune,"[4104327, 7329480]",Full-Time,201-500 Employees,E-commerce,Python;NLP;TensorFlow,Customer Centricity;Integrity,8-12 years,Lead
+PERS-1,Junior Backend Developer,Persistent Systems,Pune,"[645521, 1058911]",Full-Time,201-500 Employees,FinTech,Java;Python;Django;SQL;Microservices,Data-Driven Decisions,0-2 years,Junior
+INTU-1,Senior DevOps Engineer,Intuit,Kolkata,"[2240862, 3839339]",Full-Time,5001-10000 Employees,SaaS,AWS;Jenkins;CI/CD;Terraform;Docker,Ownership;Data-Driven Decisions,5-8 years,Senior
+RAZR-0,Senior Frontend Developer,Razorpay,Delhi NCR,"[1360454, 2120478]",Full-Time,501-1000 Employees,Cloud Computing,HTML;Next.js;TypeScript,Ownership,5-8 years,Senior
+ZERODHA-0,Mid-Level Machine Learning Engineer,Zerodha,Hyderabad,"[1928007, 3146355]",Full-Time,501-1000 Employees,Healthcare IT,Machine Learning;Python;NLP;C++;PyTorch,Data-Driven Decisions;Teamwork;Innovation,3-5 years,Mid-Level
+MSFT-0,Junior Software Engineer,Microsoft,Delhi NCR,"[615149, 896099]",Full-Time,51-200 Employees,EdTech,C++;Data Structures;Python;Java;Algorithms,Innovation;Ownership,0-2 years,Junior
+SAP-0,Principal QA Engineer,SAP,Delhi NCR,"[2375453, 3835862]",Full-Time,51-200 Employees,SaaS,API Testing;Selenium;Python;JMeter,Ownership;Continuous Learning,12+ years,Principal
+CRED-0,Junior Full Stack Developer,CRED,Chennai,"[674013, 990064]",Full-Time,51-200 Employees,Gaming,Express;SQL;Node.js;React,Work-Life Balance;Data-Driven Decisions,0-2 years,Junior
+AMZN-0,Principal Software Engineer,Amazon,Ahmedabad,"[3052499, 5207586]",Full-Time,201-500 Employees,EdTech,Algorithms;Python;Java,Continuous Learning;Innovation,12+ years,Principal
+IBM-1,Principal Software Engineer,IBM,Bengaluru,"[2955058, 4596793]",Full-Time,5001-10000 Employees,SaaS,Python;Java;Data Structures;C++,Innovation,12+ years,Principal
+TCS-0,Principal Backend Developer,Tata Consultancy Services,Hyderabad,"[3573073, 5409641]",Full-Time,501-1000 Employees,SaaS,Python;Microservices;Java;SQL;Node.js,Continuous Learning;Integrity,12+ years,Principal
+AMZN-1,Lead Full Stack Developer,Amazon,Mumbai,"[2564101, 3897879]",Full-Time,10000+ Employees,SaaS,MongoDB;JavaScript;SQL;React,Continuous Learning;Data-Driven Decisions;Work-Life Balance,8-12 years,Lead
+CRM-0,Junior Full Stack Developer,Salesforce,Hyderabad,"[704998, 1155903]",Full-Time,10000+ Employees,Healthcare IT,Express;React;SQL;MongoDB,Work-Life Balance;Teamwork;Data-Driven Decisions,0-2 years,Junior
+RAZR-1,Senior Cloud Engineer,Razorpay,Kolkata,"[2333657, 3323279]",Full-Time,10000+ Employees,Gaming,Kubernetes;GCP;Azure;Terraform,Teamwork;Data-Driven Decisions,5-8 years,Senior
+INFY-1,Junior Frontend Developer,Infosys,Delhi NCR,"[523284, 779637]",Full-Time,10000+ Employees,E-commerce,HTML;JavaScript;Next.js;React;CSS,Data-Driven Decisions;Work-Life Balance;Ownership,0-2 years,Junior
+PAYTM-1,Lead QA Engineer,Paytm,Kolkata,"[1778726, 2740383]",Full-Time,10000+ Employees,SaaS,Java;Python;API Testing;JMeter,Ownership;Integrity;Teamwork,8-12 years,Lead
+COG-1,Mid-Level Data Scientist,Cognizant,Delhi NCR,"[1631281, 2645531]",Full-Time,5001-10000 Employees,EdTech,SQL;Python;TensorFlow;Scikit-learn;PyTorch,Ownership,3-5 years,Mid-Level
+ACCN-1,Senior Data Scientist,Accenture,Ahmedabad,"[2998371, 5004800]",Full-Time,501-1000 Employees,SaaS,Scikit-learn;Machine Learning;TensorFlow,Customer Centricity;Innovation;Teamwork,5-8 years,Senior
+WMT-0,Principal Backend Developer,Walmart,Kolkata,"[3864628, 6688537]",Full-Time,501-1000 Employees,Cloud Computing,Django;Spring Boot;Microservices,Customer Centricity;Innovation;Ownership,12+ years,Principal
+ZOMT-0,Principal Cloud Engineer,Zomato,Pune,"[4663120, 7794318]",Full-Time,51-200 Employees,Logistics,AWS;GCP;Kubernetes;Azure,Data-Driven Decisions;Teamwork,12+ years,Principal
+ZOMT-1,Principal Android Developer,Zomato,Bengaluru,"[3094027, 5244587]",Full-Time,201-500 Employees,IT Services & Consulting,Java;Android SDK;Jetpack Compose;Kotlin,Teamwork;Data-Driven Decisions;Work-Life Balance,12+ years,Principal
+MPHAS-0,Principal Data Scientist,Mphasis,Kolkata,"[5799710, 10367743]",Full-Time,5001-10000 Employees,Gaming,Python;Scikit-learn;PyTorch;SQL,Teamwork;Integrity;Ownership,12+ years,Principal
+SAP-1,Mid-Level DevOps Engineer,SAP,Delhi NCR,"[1252493, 2130090]",Full-Time,201-500 Employees,Healthcare IT,Jenkins;Docker;AWS;CI/CD,Data-Driven Decisions;Teamwork;Ownership,3-5 years,Mid-Level
+FRSH-1,Principal QA Engineer,Freshworks,Mumbai,"[2183215, 3536331]",Full-Time,501-1000 Employees,Healthcare IT,Java;JMeter;Selenium;Python;Automation,Innovation;Integrity;Teamwork,12+ years,Principal
+GOOG-0,Senior Machine Learning Engineer,Google,Hyderabad,"[2734307, 4457521]",Full-Time,501-1000 Employees,Gaming,Machine Learning;Python;TensorFlow;NLP;C++,Continuous Learning;Integrity,5-8 years,Senior
+ADBE-1,Senior Software Engineer,Adobe,Ahmedabad,"[1517696, 2458702]",Full-Time,201-500 Employees,EdTech,Python;C++;Data Structures,Work-Life Balance,5-8 years,Senior
+TECHM-1,Principal Data Scientist,Tech Mahindra,Pune,"[5040030, 7456003]",Full-Time,201-500 Employees,FinTech,PyTorch;Python;Scikit-learn;SQL,Innovation;Data-Driven Decisions;Customer Centricity,12+ years,Principal
+INTU-2,Mid-Level Frontend Developer,Intuit,Kolkata,"[777471, 1357160]",Full-Time,51-200 Employees,EdTech,JavaScript;TypeScript;Next.js;HTML,Continuous Learning,3-5 years,Mid-Level
+PHPE-0,Junior Machine Learning Engineer,PhonePe,Pune,"[1063458, 1584662]",Full-Time,201-500 Employees,IT Services & Consulting,Python;NLP;PyTorch;Machine Learning;C++,Innovation;Data-Driven Decisions,0-2 years,Junior
+HCL-1,Mid-Level Full Stack Developer,HCL Technologies,Chennai,"[1190290, 1827172]",Full-Time,5001-10000 Employees,Cloud Computing,React;Express;JavaScript;Node.js,Ownership;Data-Driven Decisions,3-5 years,Mid-Level
+TECHM-2,Principal Cloud Engineer,Tech Mahindra,Bengaluru,"[4975356, 8523166]",Full-Time,201-500 Employees,EdTech,AWS;Terraform;Kubernetes;GCP;Azure,Integrity;Data-Driven Decisions,12+ years,Principal
+MSFT-1,Lead Machine Learning Engineer,Microsoft,Delhi NCR,"[4537877, 6415594]",Full-Time,1001-5000 Employees,Cloud Computing,Machine Learning;Python;PyTorch;TensorFlow;NLP,Innovation;Ownership,8-12 years,Lead
+WMT-1,Senior Frontend Developer,Walmart,Ahmedabad,"[1529768, 2156001]",Full-Time,501-1000 Employees,IT Services & Consulting,React;CSS;TypeScript;Next.js,Teamwork;Continuous Learning,5-8 years,Senior
+FRSH-2,Principal Machine Learning Engineer,Freshworks,Ahmedabad,"[6291056, 10905431]",Full-Time,201-500 Employees,Healthcare IT,TensorFlow;PyTorch;Python;NLP,Teamwork,12+ years,Principal
+CRM-1,Mid-Level Data Scientist,Salesforce,Kolkata,"[1574477, 2656366]",Full-Time,201-500 Employees,Healthcare IT,SQL;TensorFlow;Python;Scikit-learn,Continuous Learning;Data-Driven Decisions,3-5 years,Mid-Level
+COG-2,Mid-Level Backend Developer,Cognizant,Chennai,"[994883, 1452645]",Full-Time,10000+ Employees,Gaming,Node.js;Spring Boot;Java;SQL;Microservices,Work-Life Balance;Data-Driven Decisions,3-5 years,Mid-Level
+MPHAS-1,Principal Backend Developer,Mphasis,Hyderabad,"[3709230, 6615283]",Full-Time,10000+ Employees,Gaming,Python;Spring Boot;Django;Microservices,Customer Centricity;Ownership,12+ years,Principal
+ZOMT-2,Junior Full Stack Developer,Zomato,Delhi NCR,"[744130, 1228905]",Full-Time,501-1000 Employees,EdTech,React;Node.js;JavaScript;Express;MongoDB,Integrity;Customer Centricity;Data-Driven Decisions,0-2 years,Junior
+PHPE-1,Lead Frontend Developer,PhonePe,Ahmedabad,"[2103466, 3085769]",Full-Time,501-1000 Employees,E-commerce,CSS;TypeScript;React;JavaScript,Work-Life Balance,8-12 years,Lead
+COG-3,Principal Full Stack Developer,Cognizant,Kolkata,"[3766582, 6745071]",Full-Time,1001-5000 Employees,Gaming,SQL;React;JavaScript;Node.js,Customer Centricity;Innovation,12+ years,Principal
+SWGY-2,Junior Machine Learning Engineer,Swiggy,Bengaluru,"[1048626, 1629886]",Full-Time,10000+ Employees,FinTech,NLP;PyTorch;Machine Learning;C++;Python,Ownership;Teamwork;Work-Life Balance,0-2 years,Junior
+COG-4,Senior QA Engineer,Cognizant,Hyderabad,"[1123808, 1691197]",Full-Time,51-200 Employees,Gaming,API Testing;Selenium;JMeter;Java;Python,Continuous Learning;Innovation;Integrity,5-8 years,Senior
+ZOHO-1,Principal Android Developer,Zoho Corporation,Delhi NCR,"[3087348, 4428725]",Full-Time,10000+ Employees,E-commerce,MVVM;Kotlin;Android SDK;Jetpack Compose,Data-Driven Decisions,12+ years,Principal
+CRED-1,Mid-Level Backend Developer,CRED,Ahmedabad,"[1005990, 1539157]",Full-Time,10000+ Employees,Logistics,Java;SQL;Spring Boot;Python,Continuous Learning;Data-Driven Decisions,3-5 years,Mid-Level
+ADBE-2,Mid-Level Software Engineer,Adobe,Mumbai,"[1042718, 1872881]",Full-Time,51-200 Employees,Logistics,Data Structures;C++;Python;Java;Algorithms,Integrity;Ownership,3-5 years,Mid-Level
+INTU-3,Lead Backend Developer,Intuit,Bengaluru,"[2594379, 3690202]",Full-Time,201-500 Employees,Gaming,Spring Boot;Node.js;Django;Python,Integrity;Data-Driven Decisions;Teamwork,8-12 years,Lead
+ZERODHA-1,Principal Software Engineer,Zerodha,Ahmedabad,"[3044961, 4463340]",Full-Time,10000+ Employees,E-commerce,Java;Python;Algorithms,Work-Life Balance;Teamwork;Ownership,12+ years,Principal
+IBM-2,Junior Backend Developer,IBM,Bengaluru,"[589624, 942964]",Full-Time,10000+ Employees,SaaS,Django;Python;Node.js,Work-Life Balance,0-2 years,Junior
+FRSH-3,Principal DevOps Engineer,Freshworks,Ahmedabad,"[4723412, 7335023]",Full-Time,51-200 Employees,E-commerce,CI/CD;Terraform;Docker;Kubernetes,Work-Life Balance;Integrity;Ownership,12+ years,Principal
+FLPK-0,Junior Cloud Engineer,Flipkart,Chennai,"[807626, 1263720]",Full-Time,5001-10000 Employees,E-commerce,Terraform;Azure;AWS;GCP;Kubernetes,Customer Centricity;Work-Life Balance;Teamwork,0-2 years,Junior
+FLPK-1,Mid-Level Frontend Developer,Flipkart,Mumbai,"[765569, 1353325]",Full-Time,5001-10000 Employees,E-commerce,Next.js;CSS;React;HTML,Teamwork,3-5 years,Mid-Level
+CRM-2,Lead DevOps Engineer,Salesforce,Hyderabad,"[3103943, 5268559]",Full-Time,501-1000 Employees,Gaming,Terraform;Jenkins;AWS;CI/CD;Docker,Innovation;Customer Centricity;Work-Life Balance,8-12 years,Lead
+WMT-2,Junior Full Stack Developer,Walmart,Hyderabad,"[742340, 1280051]",Full-Time,501-1000 Employees,IT Services & Consulting,SQL;JavaScript;React,Customer Centricity,0-2 years,Junior
+PERS-2,Principal Data Scientist,Persistent Systems,Hyderabad,"[5538629, 7800708]",Full-Time,501-1000 Employees,EdTech,Machine Learning;Python;TensorFlow;SQL,Integrity;Continuous Learning,12+ years,Principal
+COG-5,Lead QA Engineer,Cognizant,Hyderabad,"[1661201, 2695342]",Full-Time,10000+ Employees,EdTech,Selenium;Python;JMeter;Java;Automation,Teamwork;Ownership,8-12 years,Lead
+ACCN-2,Senior Backend Developer,Accenture,Chennai,"[1839803, 3239910]",Full-Time,1001-5000 Employees,Gaming,SQL;Node.js;Java;Django,Work-Life Balance,5-8 years,Senior
+GOOG-1,Mid-Level Software Engineer,Google,Chennai,"[1032225, 1642441]",Full-Time,501-1000 Employees,IT Services & Consulting,Java;C++;Python,Teamwork;Data-Driven Decisions;Work-Life Balance,3-5 years,Mid-Level
+FLPK-2,Senior QA Engineer,Flipkart,Chennai,"[1110413, 1747962]",Full-Time,501-1000 Employees,Healthcare IT,Java;API Testing;Python,Data-Driven Decisions,5-8 years,Senior
+IBM-3,Principal Cloud Engineer,IBM,Chennai,"[4628199, 6832505]",Full-Time,501-1000 Employees,Cloud Computing,AWS;Terraform;Kubernetes,Work-Life Balance;Innovation;Ownership,12+ years,Principal
+TCS-1,Junior Data Scientist,Tata Consultancy Services,Ahmedabad,"[1028391, 1814137]",Full-Time,10000+ Employees,FinTech,Machine Learning;PyTorch;Scikit-learn;TensorFlow,Continuous Learning;Data-Driven Decisions;Work-Life Balance,0-2 years,Junior
+ACCN-3,Junior Cloud Engineer,Accenture,Delhi NCR,"[818993, 1438628]",Full-Time,501-1000 Employees,E-commerce,Kubernetes;GCP;AWS,Integrity;Work-Life Balance;Continuous Learning,0-2 years,Junior
+LTIM-1,Principal DevOps Engineer,LTI Mindtree,Chennai,"[4402571, 7711082]",Full-Time,201-500 Employees,Gaming,CI/CD;Kubernetes;Terraform,Innovation;Integrity,12+ years,Principal
+FLPK-3,Mid-Level DevOps Engineer,Flipkart,Mumbai,"[1401936, 2138503]",Full-Time,10000+ Employees,Healthcare IT,Kubernetes;Jenkins;CI/CD;Docker,Continuous Learning;Integrity,3-5 years,Mid-Level
+OLA-0,Senior Full Stack Developer,Ola Cabs,Chennai,"[1881162, 3000613]",Full-Time,1001-5000 Employees,Healthcare IT,Node.js;Express;MongoDB;React,Teamwork,5-8 years,Senior
+FLPK-4,Junior Full Stack Developer,Flipkart,Bengaluru,"[740760, 1293393]",Full-Time,501-1000 Employees,EdTech,React;Node.js;JavaScript,Ownership;Continuous Learning;Teamwork,0-2 years,Junior
+LTIM-2,Junior Backend Developer,LTI Mindtree,Ahmedabad,"[627565, 998125]",Full-Time,10000+ Employees,EdTech,Java;Python;Node.js,Continuous Learning;Teamwork;Integrity,0-2 years,Junior
+TCS-2,Junior Frontend Developer,Tata Consultancy Services,Kolkata,"[515968, 880173]",Full-Time,501-1000 Employees,FinTech,CSS;React;Next.js;JavaScript,Teamwork;Work-Life Balance,0-2 years,Junior
+ACCN-4,Lead Full Stack Developer,Accenture,Chennai,"[2694603, 4257638]",Full-Time,201-500 Employees,Logistics,React;JavaScript;Node.js;SQL,Customer Centricity;Innovation,8-12 years,Lead
+COG-6,Principal Data Scientist,Cognizant,Ahmedabad,"[5822048, 8472102]",Full-Time,5001-10000 Employees,SaaS,PyTorch;TensorFlow;Scikit-learn;Machine Learning,Work-Life Balance;Innovation;Data-Driven Decisions,12+ years,Principal
+ACCN-5,Principal Machine Learning Engineer,Accenture,Pune,"[5675254, 9063362]",Full-Time,10000+ Employees,Healthcare IT,TensorFlow;NLP;Python;C++;PyTorch,Continuous Learning,12+ years,Principal
+COG-7,Lead QA Engineer,Cognizant,Hyderabad,"[1609197, 2414189]",Full-Time,1001-5000 Employees,FinTech,JMeter;Automation;Python;Java,Ownership;Integrity;Teamwork,8-12 years,Lead
+MSFT-2,Principal Software Engineer,Microsoft,Ahmedabad,"[3500729, 5332758]",Full-Time,51-200 Employees,SaaS,Algorithms;Java;Data Structures;C++,Customer Centricity,12+ years,Principal
+CRM-3,Mid-Level Software Engineer,Salesforce,Chennai,"[967483, 1722902]",Full-Time,201-500 Employees,SaaS,Python;C++;Algorithms;Data Structures;Java,Ownership,3-5 years,Mid-Level
+WIPRO-1,Junior Full Stack Developer,Wipro,Hyderabad,"[651975, 939161]",Full-Time,51-200 Employees,SaaS,React;MongoDB;SQL,Customer Centricity,0-2 years,Junior
+CRED-2,Mid-Level Android Developer,CRED,Chennai,"[967535, 1507806]",Full-Time,10000+ Employees,EdTech,Jetpack Compose;Kotlin;Java;Android SDK,Innovation;Customer Centricity;Data-Driven Decisions,3-5 years,Mid-Level
+LTIM-3,Lead Data Scientist,LTI Mindtree,Pune,"[4214970, 6811956]",Full-Time,51-200 Employees,FinTech,Python;SQL;Machine Learning;Scikit-learn,Innovation;Data-Driven Decisions,8-12 years,Lead
+HCL-2,Lead Cloud Engineer,HCL Technologies,Delhi NCR,"[3695132, 5569012]",Full-Time,5001-10000 Employees,Logistics,AWS;Terraform;Azure;GCP,Work-Life Balance;Ownership,8-12 years,Lead
+ADBE-3,Lead QA Engineer,Adobe,Bengaluru,"[1516808, 2347974]",Full-Time,51-200 Employees,EdTech,JMeter;API Testing;Python;Selenium;Java,Data-Driven Decisions;Ownership;Continuous Learning,8-12 years,Lead
+PHPE-2,Mid-Level DevOps Engineer,PhonePe,Delhi NCR,"[1204232, 1725004]",Full-Time,201-500 Employees,FinTech,CI/CD;Kubernetes;AWS;Docker;Jenkins,Ownership;Continuous Learning;Data-Driven Decisions,3-5 years,Mid-Level
+ADBE-4,Principal Backend Developer,Adobe,Bengaluru,"[3351475, 5523025]",Full-Time,201-500 Employees,Healthcare IT,Node.js;Django;Python;SQL,Work-Life Balance;Customer Centricity;Innovation,12+ years,Principal
+OLA-1,Principal Android Developer,Ola Cabs,Bengaluru,"[2881745, 4914565]",Full-Time,10000+ Employees,Logistics,Android SDK;Java;Kotlin;MVVM;Jetpack Compose,Work-Life Balance,12+ years,Principal
+SWGY-3,Principal Android Developer,Swiggy,Chennai,"[2969134, 5018269]",Full-Time,1001-5000 Employees,SaaS,Android SDK;Kotlin;Jetpack Compose,Continuous Learning;Data-Driven Decisions;Integrity,12+ years,Principal
+WIPRO-2,Lead QA Engineer,Wipro,Kolkata,"[1526247, 2484070]",Full-Time,501-1000 Employees,Logistics,Selenium;Python;API Testing;Java;Automation,Ownership;Work-Life Balance;Data-Driven Decisions,8-12 years,Lead
+ORCL-1,Principal Frontend Developer,Oracle,Delhi NCR,"[2818076, 4610683]",Full-Time,51-200 Employees,Cloud Computing,TypeScript;CSS;React;JavaScript,Teamwork,12+ years,Principal

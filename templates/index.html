@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CredX AI - Premium Recommender</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
+  <!-- Use url_for for robust linking to static files -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+  <div class="container" role="application">
+    <aside class="sidebar" aria-label="Preferences">
+      <div class="sidebar-header">
+        <div class="avatar">CX</div>
+        <div class="brand">
+          <div class="title">CredX AI</div>
+          <div class="subtitle">Career Trajectory Engine</div>
+        </div>
+      </div>
+
+      <form id="preferences-form" aria-label="Preferences form">
+        <!-- Resume Upload Section -->
+        <section class="form-block">
+            <h4>Start with your Resume</h4>
+            <div class="resume-upload">
+                <input type="file" id="resume-upload-input" accept=".pdf" style="display: none;">
+                <button type="button" id="resume-upload-btn" class="secondary-btn">
+                    <i data-feather="upload-cloud"></i> Upload Resume (PDF)
+                </button>
+                <div id="resume-status" class="muted-text"></div>
+            </div>
+        </section>
+
+        <section class="form-block">
+          <h4>Your Profile</h4>
+          <label>Current Skills
+            <input id="skills" type="text" placeholder="e.g., node.js, javascript" value="node.js, javascript">
+          </label>
+          <label>Preferred Job Titles
+            <input id="titles" type="text" placeholder="e.g., Backend Developer" value="Junior Backend Developer">
+          </label>
+          <label>Preferred Locations
+            <input id="locations" type="text" placeholder="e.g., Pune, Mumbai" value="Pune, Mumbai">
+          </label>
+          <label>Minimum Salary (INR)
+            <input id="min_salary" type="number" value="170000" step="10000">
+          </label>
+          <label>Preferred Industries
+            <input id="industries" type="text" placeholder="e.g., SAAS, Ecommerce" value="SAAS, Ecommerce">
+          </label>
+        </section>
+
+        <section class="form-block">
+          <div class="block-head">
+            <h4>What Matters Most?</h4>
+            <div class="controls-inline">
+              <label class="mini-label"><input id="normalize-toggle" type="checkbox" class="custom-checkbox"> Normalize</label>
+            </div>
+          </div>
+          <div class="weight-list">
+            <div class="weight-row">
+              <label class="weight-enable"><input class="weight-enable-chk custom-checkbox" data-target="w_skills" type="checkbox" checked> Skills</label>
+              <div class="weight-controls">
+                <input id="w_skills" data-weight-key="skills" type="range" min="0" max="100" value="30">
+                <div class="weight-value">30%</div>
+              </div>
+            </div>
+            <div class="weight-row">
+              <label class="weight-enable"><input class="weight-enable-chk custom-checkbox" data-target="w_title" type="checkbox" checked> Job Title</label>
+              <div class="weight-controls">
+                <input id="w_title" data-weight-key="title" type="range" min="0" max="100" value="20">
+                <div class="weight-value">20%</div>
+              </div>
+            </div>
+            <div class="weight-row">
+              <label class="weight-enable"><input class="weight-enable-chk custom-checkbox" data-target="w_location" type="checkbox" checked> Location</label>
+              <div class="weight-controls">
+                <input id="w_location" data-weight-key="location" type="range" min="0" max="100" value="15">
+                <div class="weight-value">15%</div>
+              </div>
+            </div>
+            <div class="weight-row">
+              <label class="weight-enable"><input class="weight-enable-chk custom-checkbox" data-target="w_salary" type="checkbox" checked> Salary</label>
+              <div class="weight-controls">
+                <input id="w_salary" data-weight-key="salary" type="range" min="0" max="100" value="10">
+                <div class="weight-value">10%</div>
+              </div>
+            </div>
+            <div class="weight-row">
+              <label class="weight-enable"><input class="weight-enable-chk custom-checkbox" data-target="w_industry" type="checkbox" checked> Industry</label>
+              <div class="weight-controls">
+                <input id="w_industry" data-weight-key="industry" type="range" min="0" max="100" value="10">
+                <div class="weight-value">10%</div>
+              </div>
+            </div>
+          </div>
+        </section>
+        
+        <section class="form-actions">
+          <button id="submit-btn" type="submit"><i data-feather="search"></i> Find My Future Job</button>
+        </section>
+      </form>
+
+      <footer class="sidebar-foot">
+        <h4><i data-feather="settings"></i> UI Settings</h4>
+        <div class="settings-grid">
+            <label>Accent Color
+                <select id="accent-select" aria-label="Accent color">
+                  <option value="gold">Gold</option>
+                  <option value="rose">Rose Gold</option>
+                  <option value="midnight">Midnight</option>
+                </select>
+            </label>
+            <label>Sidebar Width
+              <input id="sidebar-width" type="range" min="320" max="450" value="380" />
+            </label>
+        </div>
+      </footer>
+    </aside>
+
+    <main class="main-content" role="main">
+      <header class="main-header">
+        <h1>Recommended For You</h1>
+        <div class="hint">Personalized opportunities powered by AI</div>
+      </header>
+      <div id="results-area" aria-live="polite">
+        <div class="placeholder">
+          <i data-feather="briefcase"></i>
+          <p>Your personalized job recommendations will appear here.</p>
+          <small>Upload a resume or complete your profile to begin.</small>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Use url_for for robust linking to static files -->
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+  <script>
+    // Initialize Feather Icons after the page loads
+    feather.replace()
+  </script>
+</body>
+</html>

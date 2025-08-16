@@ -1,0 +1,9 @@
+Flask==2.2.2
+Werkzeug==2.3.8
+Flask-Cors==3.0.10
+pandas==1.5.3
+sentence-transformers==2.2.2
+huggingface-hub==0.23.4
+requests==2.28.1
+torch
+gunicorn==20.1.0
