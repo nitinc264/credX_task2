@@ -15,7 +15,7 @@ CORS(app)
 
 DATA_FILE_PATH = os.path.join('data', 'jobs.csv')
 
-API_KEY = "AIzaSyCjk3k8ZaNRKscDcrhiN3RDuKWsNb0ROMk"
+API_KEY = "YOUR_API_KEY_HERE"
 
 if API_KEY != "YOUR_API_KEY_HERE" and genai:
     try:
@@ -63,3 +63,4 @@ def parse_resume_route():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
+
